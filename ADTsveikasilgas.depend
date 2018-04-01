@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1456133864 source:c:\programming\c\adtsveikasilgas\innernumber.c
+
+1456133800 source:c:\programming\c\adtsveikasilgas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"innernumber.h"
+
+1456131850 c:\programming\c\adtsveikasilgas\innernumber.h
+
+1456131744 c:\programming\c\adtsveikasilgas\innernumber.c
+
+1522625298 source:c:\users\incomirican\desktop\greatint.c
+	<stdlib.h>
+	<stdio.h>
+	"greatInt.h"
+
+1522627140 c:\users\incomirican\desktop\greatint.h
+	<stdio.h>
+
+1522627365 source:c:\users\incomirican\desktop\c\adtsveikasilgas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"greatInt.h"
+
+1522625296 c:\users\incomirican\desktop\c\adtsveikasilgas\greatint.h
+	<stdio.h>
+
